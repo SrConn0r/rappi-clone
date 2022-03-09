@@ -23,7 +23,7 @@ class _SearchHomeState extends State<SearchHome> {
     primary: Colors.black,
     padding: EdgeInsets.all(12.0),
     shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.all(Radius.circular(12))),
+        borderRadius: BorderRadius.all(Radius.circular(16.0))),
   );
 
   @override
